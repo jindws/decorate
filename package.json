@@ -1,0 +1,16 @@
+{
+  "name": "decorate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/plugin-proposal-decorators": "^7.17.8",
+    "prettier": "^2.6.1"
+  }
+}
